@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/keeper-note-react/static/css/main.547d4a48.chunk.css",
+    "main.js": "/keeper-note-react/static/js/main.572a57e8.chunk.js",
+    "main.js.map": "/keeper-note-react/static/js/main.572a57e8.chunk.js.map",
+    "runtime-main.js": "/keeper-note-react/static/js/runtime-main.dce3623f.js",
+    "runtime-main.js.map": "/keeper-note-react/static/js/runtime-main.dce3623f.js.map",
+    "static/js/2.7688ff81.chunk.js": "/keeper-note-react/static/js/2.7688ff81.chunk.js",
+    "static/js/2.7688ff81.chunk.js.map": "/keeper-note-react/static/js/2.7688ff81.chunk.js.map",
+    "static/js/3.86962130.chunk.js": "/keeper-note-react/static/js/3.86962130.chunk.js",
+    "static/js/3.86962130.chunk.js.map": "/keeper-note-react/static/js/3.86962130.chunk.js.map",
+    "index.html": "/keeper-note-react/index.html",
+    "static/css/main.547d4a48.chunk.css.map": "/keeper-note-react/static/css/main.547d4a48.chunk.css.map",
+    "static/js/2.7688ff81.chunk.js.LICENSE.txt": "/keeper-note-react/static/js/2.7688ff81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dce3623f.js",
+    "static/js/2.7688ff81.chunk.js",
+    "static/css/main.547d4a48.chunk.css",
+    "static/js/main.572a57e8.chunk.js"
+  ]
+}
